@@ -1,5 +1,6 @@
 # Hi there 👋
-## I'm Ellen 😊
+I'm Ellen 😊
+<br>
 
 ⬜ I'm currently learning:
 <p align="left">
